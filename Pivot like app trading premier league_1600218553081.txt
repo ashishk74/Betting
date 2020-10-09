@@ -1,0 +1,149 @@
+pridiction APPLICATION 
+Similar to pivot/Trading premier league
+System Users 
+ Contestant (Front end application user) 
+ Admin User (Backend Panel)  
+System Features & Functionality 
+1.      Contestant/Application user  
+ Splash Screen: Landing screen of the application. 
+ Registration: For registration, user need to submit following details 
+such as: 
+o Username 
+o Email ID 
+o Contact Number  
+o Referral Code   
+o Password   
+ Login: For login into the application user need to submit the following 
+details: 
+o Email ID/Username 
+o Password  
+ Home Screen (All contest): This will be the main/default screen for logged 
+in user of the 
+application that will display entire contents listing that includes: 
+o Filter Matches by 
+ Sports type 
+ Match category (Upcoming Match, Ongoing/Live Match, Results) 
+o Match listing will include: 
+ Tournament Name  
+ Next Match Timing
+o On choosing/selecting the desired match from the listing user will be 
+redirected to 
+the contest screen.
+ Contest Screen: Under this screen user will able to view the entire 
+contests listing for the 
+respective contest with following detail such as:( img attached-1)
+
+ Total winnings amount of that contest  
+ Winners Count (User will able to view the winning criteria according to 
+their 
+rank. 
+# The ratio of winners and looser will be always 80% of the total entry 
+fee.
+for example if 100 player join in a up and down contest with 1rs fee in 
+this 25 go with up and 75 go for down and market go down than those 75
+user will get 80rs but not equal distribution,who join first 15 second 
+will get double and remain will devide equally.
+ Payment Mode: There will be online payment mode such as: 
+ Credit/Debit Card ( for all)
+# UPI (for indian)
+ Paytm Wallet  (for indian)
+ From Application wallet (for all)
+   from coinbase (for all)
+ From referral cash bonus points 
+ # Bid can be done via wallet coins,user will have to deposit fund,convert it in to wallet coin and use for bidding and for withdrawal he have to again convert coin in to thier respective currency and request withdrawal.
+ Create your own contest: By tapping, user will able to create their own 
+contest by 
+submitting the following detail such as: 
+o Contest Name  
+o Total Winning Amount (Min & Max) 
+o Contest Size (Min 2 & Max 100) 
+o Entry fees (Entry fee is calculated on the basis of total price amount 
+& contest size 
+selected)
+o Join Contest: Contest creator need to join the contest first, before 
+creating. 
+o Invite their friends to join the contest  
+ My Contest: Under this section user will able to view the list of 
+joined contest. Here 
+contestant will be able to View & Edit contest amount mean multiple entry 
+also possible
+o Filter by: contest types (Mine,Result, leaderboard) (img attached-2)
+Note: 
+ My Profile (Dashboard): Under this section user will able to view & 
+update their profile 
+detail. This section will also include: 
+o Your reward points 
+o Account detail such as: 
+ Total balance  
+ User winning amount 
+ User cash bonus (By referral) 
+ View transaction 
+ Manage payments 
+o Add cash  
+o Withdraw winning amount 
+ Add your bank account if not  
+ Add your pan card detail 
+ coinbase account details
+Note: Admin will verify the account detail and update user accordingly  
+o Ranking on basis of contest won(Overall ranking) 
+o My friends 
+o Invite & earn (Explained below)   
+o Logout  
+ Settings (More): Under this section user will be able to view other 
+required features of the 
+application such as: 
+o Invite & Earn: Under this section user will share app URL to their 
+friends with app 
+link and their referral code. On joining the contest with referral code 
+shared by the 
+user, he/she will get a bonus amount for the same. Also, user will get 
+rewarded with
+some cash bonus into their app wallet whenever their referred friends 
+join any 
+contest.  
+Note: Reward points and cash bonus will be managed by owner of the 
+system.
+
+o CMS section: This will include: 
+ About us 
+ Help  
+ Contact Us  
+ Point System  
+2.      Admin User (Backend Panel) 
+ Admin login 
+o Username 
+o Password 
+ Dashboard: This section will give the stats of following fields: 
+o Total contest 
+o Total Contestant  
+o Entire Earning  
+ User Manager: Admin will able to manage entire user of the application. 
+o Edit/Delete/Add/Active/Deactivate   
+ Manage contest: Admin will able to manage entire matches of the 
+application. 
+o Edit/Delete/Add/Active/Deactivate contest  
+ Manage  Category  
+ Contest Manager: Admin will able to manage entire contests of the 
+application. 
+o Edit/Delete/Add/Active/Deactivate match contest.   
+ Earning: View entire earning from the application with various filters. 
+ Manage Reward Points 
+ Manage Cash bonus  
+ Access Reports: Admin will be able to generate following reports such 
+as: 
+o Contest reports 
+o Contestant reports 
+o Earning Report  
+o Player Ranking reports on basis of earning
+ View Bank Withdraw request: Admin will able to view entire request from 
+the contestant 
+to withdraw their winning amount into their respective bank 
+o Admin can Accept/Reject bank detail/UPI/Paytm/coinbase details
+o Admin can Accept/Reject Pan card detail/I'd proof
+o View Entire Contestant (Approve as well as Rejected) 
+o Send money to contestant  
+ Manage CMS pages 
+o About us  
+o Contact Us  
+o Help  
+o Points System
